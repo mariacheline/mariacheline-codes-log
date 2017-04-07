@@ -6,4 +6,5 @@ I thought it's fun to keep track of my improvements as I teach myself web develo
 
 
 Here I go, let's learn some stuff!
-Head on to [log,md](https://github.com/mariacheline/mariacheline-coding-log/blob/master/log.md)
+
+Head on to [log.md](https://github.com/mariacheline/mariacheline-coding-log/blob/master/log.md)
