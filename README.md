@@ -1,4 +1,4 @@
-# mariacheline codes - log
+# mariacheline coding - log
 
 This log is inspired by [100DaysOfCode Challenge](https://github.com/Kallaway/100-days-of-code) from FreeCodeCamp.
 
